@@ -26,6 +26,8 @@ A **LH Nautical** é uma empresa de varejo náutico, líder em peças e acessór
 
 Este projeto foi desenvolvido como parte de um desafio de Data Analytics/Data Science, com o objetivo de analisar dados do negócio e gerar insights estratégicos que apoiem a tomada de decisão. A análise contempla desde o entendimento do problema de negócio até a construção de modelos preditivos de demanda e sistemas de recomendação baseados em Inteligência Artificial, unindo rigor estatístico à visão de crescimento de negócio.
 
+Nota: A LH Nautical é uma empresa fictícia criada para fins de estudo de caso e desenvolvimento de competências em análise/ciência de dados.
+
 
 ## 🎯 Objetivo do Projeto
 
@@ -61,30 +63,31 @@ O fluxo de trabalho foi estruturado em 5 etapas principais para garantir a integ
 
 ## 📈 Principais Insights
 
-Insight 1
-Insight 2
-Insight 3
+A análise dos dados da LH Nautical, revelou pontos críticos e oportunidades de crescimento:
+
+1. **Déficit de Categoria (Propulsão):** Identificamos que a categoria de Propulsão acumula um prejuízo de **R$ 122.7M**. Isso indica que a estratégia de precificação ou os custos de importação estão desalinhados com a realidade do mercado.
+2. **Oportunidade de Cross-Selling:** O motor de recomendação identificou uma similaridade de **87%** entre o **GPS Garmin** e o **Motor Yamaha 155HP**. Clientes que compram motores de alta performance têm alta propensão a adquirir eletrônicos de navegação de ponta.
+3. **Eficiência de Estoque (Baseline):** Ao comparar o estoque real com o modelo preditivo, notamos que em meses como Outubro, a empresa manteve **30% a mais** de estoque do que o necessário, imobilizando capital que poderia ser reinvestido em marketing ou logística.
 
 ## 🚀 Recomendações Estratégicas
 
-Recomendação 1
-Recomendação 2
-Recomendação 3
+Com base no diagnóstico de dados, as seguintes ações são recomendadas para o ciclo 2026/2027:
 
-## 📊 Dashboard Interativo
+1. **Revisão da Tabela de Preços (Propulsão):** Auditoria imediata nos custos de aquisição e logística dos motores com perda superior a 60%. O objetivo é reequilibrar a margem bruta ou descontinuar modelos de baixa performance financeira;
+2. **Automação de Cross-Selling:** Implementar o motor de recomendação no checkout do e-commerce e no script de vendas consultivas, oferecendo eletrônicos (GPS/Sondas) para todo comprador de motores de popa;
+3. **Gestão de Estoque Just-in-Time:** Adotar o modelo **Baseline Preditivo** para compras de motores Yamaha 155HP em Outubro e Novembro, reduzindo o capital imobilizado em estoque desnecessário.
 
-Acesse o dashboard: [Link do Power BI]
 
 ## 📓 Notebook da Análise
 
-Acesse o notebook: [Link do Colab]
+O desenvolvimento técnico completo, incluindo a limpeza dos dados, criação dos gráficos de rentabilidade e o código do sistema de recomendação (Cosseno), pode ser acessado no link abaixo:
+
+* [Acesse o Notebook (Google Colab/Jupyter)](Disponível em breve)
 
 ## 👩‍💻 Autora
 
 Nome: Michele Farias
-
-LinkedIn: [seu link]
-GitHub: [seu link]
-Email: [seu email]
-
+* [LinkedIn](https://www.linkedin.com/in/fariasmichele/)
+  
+* *Desenvolvedora de soluções de dados focadas em Business Intelligence e Analytics.*
 
