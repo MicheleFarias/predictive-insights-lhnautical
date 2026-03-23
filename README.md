@@ -65,17 +65,22 @@ O fluxo de trabalho foi estruturado em 5 etapas principais para garantir a integ
 
 A análise dos dados da LH Nautical, revelou pontos críticos e oportunidades de crescimento:
 
-1. **Déficit de Categoria (Propulsão):** Identificamos que a categoria de Propulsão acumula um prejuízo de **R$ 122.7M**. Isso indica que a estratégia de precificação ou os custos de importação estão desalinhados com a realidade do mercado.
-2. **Oportunidade de Cross-Selling:** O motor de recomendação identificou uma similaridade de **87%** entre o **GPS Garmin** e o **Motor Yamaha 155HP**. Clientes que compram motores de alta performance têm alta propensão a adquirir eletrônicos de navegação de ponta.
+1. **Déficit de Categoria (Propulsão):** Identificamos que a categoria de Propulsão acumula um prejuízo de **R$ 122.7M**. Isso indica que a estratégia de precificação ou os custos de importação estão desalinhados com a realidade do mercado;
+   
+2. **Oportunidade de Cross-Selling:** O motor de recomendação identificou uma similaridade de **87%** entre o **GPS Garmin** e o **Motor Yamaha 155HP**. Clientes que compram motores de alta performance têm alta propensão a adquirir eletrônicos de navegação de ponta;
+   
 3. **Eficiência de Estoque (Baseline):** Ao comparar o estoque real com o modelo preditivo, notamos que em meses como Outubro, a empresa manteve **30% a mais** de estoque do que o necessário, imobilizando capital que poderia ser reinvestido em marketing ou logística.
+
 
 ## 🚀 Recomendações Estratégicas
 
 Com base no diagnóstico de dados, as seguintes ações são recomendadas para o ciclo 2026/2027:
 
 1. **Revisão da Tabela de Preços (Propulsão):** Auditoria imediata nos custos de aquisição e logística dos motores com perda superior a 60%. O objetivo é reequilibrar a margem bruta ou descontinuar modelos de baixa performance financeira;
-2. **Automação de Cross-Selling:** Implementar o motor de recomendação no checkout do e-commerce e no script de vendas consultivas, oferecendo eletrônicos (GPS/Sondas) para todo comprador de motores de popa;
-3. **Gestão de Estoque Just-in-Time:** Adotar o modelo **Baseline Preditivo** para compras de motores Yamaha 155HP em Outubro e Novembro, reduzindo o capital imobilizado em estoque desnecessário.
+   
+2. **Automação de Cross-Selling:** Implementar o motor de recomendação no checkout do e-commerce e no script de vendas consultivas, oferecendo eletrônicos (GPS/Sondas) para todo comprador de motores de Popa;
+   
+2. **Gestão de Estoque Just-in-Time:** Adotar o modelo **Baseline Preditivo** para compras de motores Yamaha 155HP em Outubro e Novembro, reduzindo o capital imobilizado em estoque desnecessário.
 
 
 ## 📓 Notebook da Análise
