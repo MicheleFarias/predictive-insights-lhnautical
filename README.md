@@ -1,5 +1,5 @@
 <h1 align="center">
-  📊 Data Science & Analytics: Otimização de Estoque e Recuperação de Lucro na LH Nautical
+  📊 Data Science & Analytics: Otimização de Estoque e Recuperação de Lucro na LH NAUTICAL
 </h1>
 
 <div align="center">
