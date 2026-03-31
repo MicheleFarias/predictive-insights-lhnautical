@@ -46,7 +46,7 @@ A **LH Nautical** é uma empresa de varejo náutico, líder em peças e acessór
 
 Este projeto foi desenvolvido como parte de um desafio de Data Analytics/Data Science, com o objetivo de analisar dados do negócio e gerar insights estratégicos que apoiem a tomada de decisão. A análise contempla desde o entendimento do problema de negócio até a construção de modelos preditivos de demanda e sistemas de recomendação baseados em Inteligência Artificial, unindo rigor estatístico à visão de crescimento de negócio.
 
-> **Nota: A LH NAUTICAL é uma empresa fictícia criada para fins de estudo de caso e desenvolvimento de competências em Data Analytics/Data Science.
+> ** A LH NAUTICAL é uma empresa fictícia criada para fins de estudo de caso e desenvolvimento de competências em Data Analytics/Data Science.
 
 
 ## ❓ Problema de Negócio
