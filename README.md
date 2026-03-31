@@ -35,7 +35,7 @@
 ## 🎯 Objetivo do Projeto
 
 Desenvolver um diagnóstico profundo da saúde financeira da empresa e implementar modelos de inteligência artificial que auxiliem na tomada de decisão estratégica, focando em:
-* Identificar e mitigar perdas financeiras.;
+* Identificar e mitigar perdas financeiras;
 * Otimizar o giro de estoque de produtos críticos;
 * Alavancar vendas através de recomendações personalizadas.
 
